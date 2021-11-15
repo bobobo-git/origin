@@ -21,6 +21,7 @@ Version: 1.07\n\
 Du olle Hackfresse\n\
 ************************"
     messagebox.showinfo(message=m_text, title="Infos")
+#    fenster.quit()  comment
 fenster = Tk()
 fenster.title("Programm mit einem Menü für ein Arschloch")
 
